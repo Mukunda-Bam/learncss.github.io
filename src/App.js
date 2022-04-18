@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <main>
       <header className="App-header">
-            <h1>Learn Fundamentals of React JS</h1>
+            <h1>Learn Fundamentals of CSS</h1>
             </header>
             <nav>
             <div className='nav-bar'>
