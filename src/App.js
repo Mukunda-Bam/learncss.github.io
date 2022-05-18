@@ -26,7 +26,7 @@ function App() {
     <p>As you are guessing, color sets the color for the elements in HTML, like the color for the text that you write.</p>
         <h2>What is ‘background-color’ in CSS?</h2>
     <p>Background-color sets the background color of an element like body, head, div tag, p tag, etc.</p>
-    <img class ='imagefirst' src='padbodmar.png'>
+    <img class ='imagefirst' src='./padbodmar.png'>
     <h2>What does ‘padding’ do in CSS?</h2>
     <p>Padding creates space around the content of element like space around text.</p>
     <h2>What is ‘border’ in CSS?</h2>
